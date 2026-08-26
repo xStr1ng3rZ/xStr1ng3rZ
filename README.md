@@ -8,7 +8,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Age-19-38BDF8?style=for-the-badge&logo=cake&logoColor=white" alt="Age" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" 
+  alt="Role" />
+  <img src="https://img.shields.io/github/followers/xStr1ng3rZ?label=Followers&style=for-the-badge&color=38BDF8&logo=github" alt="Followers" />
 </div>
 
 <br>
