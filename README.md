@@ -23,7 +23,7 @@
 
 - **Game Server & Full Stack Development:** Architecting custom cores, plugins, and game modes using **PHP (PocketMine-MP)** and **Java (Nukkit)**, alongside robust frontend applications.
 - **Automation & Communities:** Developing sophisticated Discord bots with **JavaScript** and **Python** for moderation, community management, and automated utilities.
-- **C++ & Reverse Engineering:** Exploring DirectX 11 hooking and SDK structures for custom modifications and anti-cheats.
+- **C++ & Learning Reverse Engineering:** Exploring DirectX 11 hooking and SDK structures for custom modifications and anti-cheats.
 - **3D Modeling & Assets:** Crafting custom models, animations, and resource packs using **Blockbench**.
 
 ---
